@@ -1,0 +1,79 @@
+/*Fontes*/
+.roboto-thin {
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-size: 175%;
+    margin-bottom: 2%;
+    margin-top: 4%;
+}
+
+.dm-sans {
+  font-family: "DM Sans", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.ubuntu{
+    font-family: "Ubuntu", sans-serif;
+    font-style: normal;
+}
+
+/*Geral*/
+*{
+    background-color: rgb(22, 22, 22);
+    color: white;
+    letter-spacing: .02em;
+}
+
+body{
+    width: 100%;
+    background-color: rgb(22, 22, 22);
+}
+
+h1, h2{
+    font-weight: bolder;
+}
+
+section{
+    margin-top: 5%;
+}
+ 
+a{
+    color: white;
+    text-decoration: underline;
+}
+
+a:hover{
+    color: brown;
+    text-decoration: none;
+}
+
+
+/*Main*/
+main{
+    margin: 0 10%;
+}
+
+main p, main li{
+    font-size: 1.5rem;
+    line-height: 150%;
+    text-align: justify;
+}
+
+main ul li{
+    list-style-type: disc;
+}
+
+.projetos {
+    margin-bottom: 5%;
+}
+
+ strong {
+    font-weight: bold;
+    color: rgb(255, 197, 126);
+}
+
+section h2 {
+    margin: 2% 0;
+    font-size: 2.75rem;
+}
